@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tianchinchiko
+- 👋 Hi, I’m QuinDevs
 - 🎮 I’m interested in Game Development
 - 📖 I’m currently learning C Program
 - 🖇 I’m looking to collaborate on Pixel artist
